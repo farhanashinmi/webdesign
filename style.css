@@ -1,0 +1,126 @@
+#nav{
+    height: 50px;
+    width: full;
+    background-color: rgba(0, 0, 0, 0.89);
+    display: flex;
+    justify-content: space-between;
+    margin:0;
+    padding: 10px 20px 20px 20px;
+    color: azure;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 60px;
+
+}
+.p{
+    font-weight: 700;
+    color: azure;
+}
+.img-banner{
+    width: 1350px;
+    height: 600px;
+    background-color: black;
+    
+  
+}
+.banner-headline{
+    margin-top: -350px;
+    font-size: 4.5rem;
+    padding:50px;
+    color: azure;
+    background-color: rgb(0, 0, 0);
+    opacity: 80%;
+   
+}
+#about{
+    
+    padding: 10px;
+    text-align: center;
+    
+}
+.p-about{
+    width: 1000px;
+    text-align: center;
+    padding-inline: 150px;
+    text-align: justify;
+}
+.about-headline{
+  font-size: 3rem;
+  margin-top: 5%;
+}
+.div-about{
+    padding-block: 30px;
+   
+}
+.img-about{
+    width: 300px;
+    height: 400px;
+    background-color: black;
+    padding: 4px;
+    position: relative;
+    
+}
+#mail-section{
+    padding: 20px;
+}
+.img-mail{
+    width: 500px;
+    height: 300px;
+    background-color: black;
+    padding: 4px;
+}
+.div-mail{
+    display: flex;
+    align-items: center;
+    gap: 2%;
+}
+.p-mail{
+    width: 700px;
+    text-align: center;
+    text-align: justify;
+    padding-bottom: 10px;
+}
+.new-mail{
+    width: 600px;
+    height: 50px;
+    background-color: rgba(105, 105, 105, 0.178);
+    box-sizing: border-box;
+    border-color: black;
+}
+.new-btn{
+    width: 80px;
+    height: 50px;
+    background-color: rgba(17, 17, 17, 0.829);
+    box-sizing: border-box;
+    border-color: black;
+    color: azure;
+}
+#footer{
+    height: 200px;
+    width: full;
+    background-color: rgba(0, 0, 0, 0.89);
+    text-align: center; 
+    margin-top: 40px;
+    padding: 20px 20px 20px 20px;
+    color: azure;
+}
+.footer-div{
+    display: flex;
+    justify-content: space-between;
+}
+h2{
+    font-size: 2rem;
+    
+}
+.p-footer{
+display: inline;
+}
+.copyright{
+    background-color: black;
+    color: azure;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
